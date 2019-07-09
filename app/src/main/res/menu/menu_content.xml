@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="rayhan.dev.myapplication.MainActivity">
+    <item
+        android:id="@+id/Login"
+        android:title="item1" />
+    <item
+        android:id="@+id/Register"
+        android:title="Register" />
+    <item
+        android:id="@+id/Setting"
+        android:title="Setting" />
+</menu>
